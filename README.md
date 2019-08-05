@@ -4,6 +4,7 @@ Hugging Faceが公開している[pytorch-transformers](https://github.com/huggi
 
 - [言い換え生成](https://github.com/marucha80t/use-cases_of_bert/blob/master/lexical_substitution_with_bert.ipynb)
 - [教師なし抽出型要約](https://github.com/marucha80t/use-cases_of_bert/blob/master/unsupervised_extractive_summarization_with_bert.ipynb)
+
 を行う。
 
 <br>
@@ -20,7 +21,7 @@ Hugging Faceが公開している[pytorch-transformers](https://github.com/huggi
 
 
 ## 教師なし抽出型要約
-BERTを用いて、入力文書及びその文書中に含まれる各文をそれぞれベクトル化する。
+BERTを用いて、入力文書及びその文書中に含まれる各文をそれぞれベクトル化する。  
 各文をEmbedRank++を用いてランキングし、上位n件を要約文として抽出する。
 
 <br>
