@@ -1,6 +1,6 @@
 # Use-cases of Hugging Face's BERT
 
-This notebook show the use-cases of BERT using [pytorch-transformers](https://github.com/huggingface/pytorch-transformers).
+This notebook show use-cases of BERT using [pytorch-transformers](https://github.com/huggingface/pytorch-transformers).
 
 - [Unsupervised Lexical Simplification](https://github.com/marucha80t/use-cases_of_bert/blob/master/lexical_substitution_with_bert.ipynb)
 - [Conditional BERT Contextual Augmentation](https://colab.research.google.com/github/tkmaroon/use-cases-of-bert/blob/master/conditional_bert_contextual_augmentation.ipynb)
